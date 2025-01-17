@@ -1,6 +1,6 @@
 module github.com/gabe565/coloryaml
 
-go 1.22.5
+go 1.23.5
 
 require (
 	github.com/fatih/color v1.17.0
